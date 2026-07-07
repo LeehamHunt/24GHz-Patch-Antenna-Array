@@ -1,6 +1,6 @@
 # 24 GHz Microstrip Patch Antenna Array
 
-![Antenna Render](images/antenna_render.png)
+![Antenna Render](images/4x1PatchArraySim.png)
 
 ## Overview
 
