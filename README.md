@@ -1,6 +1,6 @@
 # 24 GHz Microstrip Patch Antenna Array
 
-![Antenna Render](images/4x1PatchArraySim.png)
+![Antenna Render](images/4x1PatchArray.jpg)
 
 ## Overview
 
@@ -24,7 +24,7 @@ The antenna was designed and evaluated using full-wave electromagnetic simulatio
 
 # Design Objectives
 
-- Achieve resonance at 24 GHz
+- Achieve resonance at 24GHz 
 - Maximize realized gain
 - Minimize return loss
 - Optimize beamwidth
