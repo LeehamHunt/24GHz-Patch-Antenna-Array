@@ -49,7 +49,7 @@ The design process included:
 
 # Electromagnetic Simulation
 
-![CST Model](images/cst_model.png)
+![Antenna Render](images/4x1PatchArraySim.png)
 
 Simulation studies included:
 
