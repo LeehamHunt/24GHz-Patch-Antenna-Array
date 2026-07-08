@@ -144,26 +144,5 @@ Potential future work includes:
 - RF Systems
 - Array Optimization
 
----
-
-# Gallery
-
-## CST Model
-
-(image)
-
-## Radiation Pattern
-
-(image)
-
-## Surface Current
-
-(image)
-
-## S11 Plot
-
-(image)
-
-## Gain Plot
 
 (image)
